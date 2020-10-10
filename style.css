@@ -1,0 +1,14 @@
+body {
+	font-family: 'Viga', sans-serif;
+	background-image: url(https://wallpapercave.com/wp/2u5OrmL.png);
+}
+
+.navbar-brand {
+	border-width: 2px;
+	border-radius: 2px;
+}
+
+.jumbotron {
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+}
